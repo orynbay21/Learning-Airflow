@@ -1,0 +1,5 @@
+
+cd DAG_ingestion_pipeline
+docker-compose up airflow_init
+docker-compose up
+localhost:8081/login
